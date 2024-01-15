@@ -1,0 +1,14 @@
+D:\CodeBase\C#\GB\ControlProjects\ControlProjectWorkWithExeptions\ControlProjectWorkWithExeptions\bin\Debug\net8.0\ControlProjectWorkWithExeptions.exe
+D:\CodeBase\C#\GB\ControlProjects\ControlProjectWorkWithExeptions\ControlProjectWorkWithExeptions\bin\Debug\net8.0\ControlProjectWorkWithExeptions.deps.json
+D:\CodeBase\C#\GB\ControlProjects\ControlProjectWorkWithExeptions\ControlProjectWorkWithExeptions\bin\Debug\net8.0\ControlProjectWorkWithExeptions.runtimeconfig.json
+D:\CodeBase\C#\GB\ControlProjects\ControlProjectWorkWithExeptions\ControlProjectWorkWithExeptions\bin\Debug\net8.0\ControlProjectWorkWithExeptions.dll
+D:\CodeBase\C#\GB\ControlProjects\ControlProjectWorkWithExeptions\ControlProjectWorkWithExeptions\bin\Debug\net8.0\ControlProjectWorkWithExeptions.pdb
+D:\CodeBase\C#\GB\ControlProjects\ControlProjectWorkWithExeptions\ControlProjectWorkWithExeptions\obj\Debug\net8.0\ControlProjectWorkWithExeptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeBase\C#\GB\ControlProjects\ControlProjectWorkWithExeptions\ControlProjectWorkWithExeptions\obj\Debug\net8.0\ControlProjectWorkWithExeptions.AssemblyInfoInputs.cache
+D:\CodeBase\C#\GB\ControlProjects\ControlProjectWorkWithExeptions\ControlProjectWorkWithExeptions\obj\Debug\net8.0\ControlProjectWorkWithExeptions.AssemblyInfo.cs
+D:\CodeBase\C#\GB\ControlProjects\ControlProjectWorkWithExeptions\ControlProjectWorkWithExeptions\obj\Debug\net8.0\ControlProjectWorkWithExeptions.csproj.CoreCompileInputs.cache
+D:\CodeBase\C#\GB\ControlProjects\ControlProjectWorkWithExeptions\ControlProjectWorkWithExeptions\obj\Debug\net8.0\ControlProjectWorkWithExeptions.dll
+D:\CodeBase\C#\GB\ControlProjects\ControlProjectWorkWithExeptions\ControlProjectWorkWithExeptions\obj\Debug\net8.0\refint\ControlProjectWorkWithExeptions.dll
+D:\CodeBase\C#\GB\ControlProjects\ControlProjectWorkWithExeptions\ControlProjectWorkWithExeptions\obj\Debug\net8.0\ControlProjectWorkWithExeptions.pdb
+D:\CodeBase\C#\GB\ControlProjects\ControlProjectWorkWithExeptions\ControlProjectWorkWithExeptions\obj\Debug\net8.0\ControlProjectWorkWithExeptions.genruntimeconfig.cache
+D:\CodeBase\C#\GB\ControlProjects\ControlProjectWorkWithExeptions\ControlProjectWorkWithExeptions\obj\Debug\net8.0\ref\ControlProjectWorkWithExeptions.dll
